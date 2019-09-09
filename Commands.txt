@@ -1,0 +1,43 @@
+1  aws --version
+    2  aws --version
+    3  aws --version
+    4  git --version
+    5  aws -- version
+    6  aws --version
+    7  cls
+    8  cl
+    9  clear
+   10  aws --version
+   11  pwd
+   12  git clone https://github.com/Sandeepdutte/aws_prerequisite_tools
+   13  git clone https://github.com/Sandeepdutte/SW-Installablles
+   14  pwd
+   15  ls
+   16  clear
+   17  ls ld SW Installables
+   18  ls ld SW-Installablles
+   19  ls -ld SW-Installablles
+   20  clear
+   21  git clone https://github.com/Sandeepdutte/aws_csa_4Sept19_sw.git
+   22  ls -ld aws_csa_4Sept19_sw
+   23  ls -lrta aws_csa_4Sept19_sw
+   24  cd aws_csa_4Sept19_sw
+   25  touch a.txt
+   26  ls -lrta
+   27  cat 1.txt
+   28  cat a.txt
+   29  git congig --global user.name "Sandeepdutte"
+   30  git config --global user.name "Sandeepdutte"
+   31  git config --global user.email "sandeepdutte@outlook.com"
+   32  git status
+   33  git add a.txt
+   34  git status
+   35  pwd
+   36  git add.
+   37  git status
+   38  git add .
+   39  git status
+   40  git commit -m "MyfirstCommit"
+   41  git status
+   42  git push -u origin master
+   43  history
